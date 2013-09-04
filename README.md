@@ -9,7 +9,6 @@ Bugs/Suggestions: uweenukr@gmail.com
 Tools
 -----
 * Visual Studio 2012 and Unity3d
-* 
 
 Overview
 --------
